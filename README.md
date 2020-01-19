@@ -4,7 +4,7 @@
 
 ### How to INSTALL?
 
-Simple, to install **YOU NEED REMOVE COMPLETELY SUPERSU OR OFICIAL MAGISK**. So download [MAGISK-ANDRAX-MOD.ZIP](https://github.com/The-Cracker-Technology/magisk-andrax-mod/releases/)
+Simple, to install **YOU NEED REMOVE COMPLETELY SUPERSU OR OFICIAL MAGISK**. So download [MAGISK-ANDRAX-MOD.ZIP](https://github.com/gnubrasil/magisk-andrax-mod/releases/)
 
 ### Modules
 
