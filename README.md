@@ -9,3 +9,10 @@ Simple, to install **YOU NEED REMOVE COMPLETELY SUPERSU OR OFICIAL MAGISK**. So 
 ### Modules
 
 MAGISK-ANDRAX-MOD has compatibility with the modules of the official magisk
+
+##Como instalar?
+
+ Simples de instalar, VOCÊ PRECISA REMOVER COMPLETAMENTE SUPERSU OU MAGISK OFICIAL.  Faça o download do MAGISK-ANDRAX-MOD.ZIP
+
+ Módulos
+ O MAGISK-ANDRAX-MOD tem compatibilidade com os módulos do magisk oficial
